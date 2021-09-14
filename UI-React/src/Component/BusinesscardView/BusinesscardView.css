@@ -1,0 +1,129 @@
+.businesscard-view{
+    position:static;
+}
+.company-Address {
+    margin:1em;
+}
+.company-Contact{
+    margin: 1em;
+}
+.company-Email{
+    margin: 1em;
+}
+
+.company-Website{
+    margin: 1em;;
+}
+.business-card{
+    background-color: white;
+    margin-top: 2em;
+    margin-left: 10em;
+    margin-right: 10em;
+    margin-bottom: 1em;
+    box-shadow: 1px 1px 1px 1px black;
+    
+}
+.company-Name{
+    font-family:serif;
+    font-size:2em;
+    text-align: center;
+
+}
+ .card-detail-brand{
+    margin-left: 24em;
+    text-align: center;
+    
+} 
+.company-logo>img{
+    margin-top:1em;
+    margin-left: 24em;
+    margin-bottom: 0.5em;
+    width:3em;
+    height:3em;
+    text-align: center;
+}
+
+.company-logo>audio{
+    margin-top:1em;
+    margin-left: 24em;
+    width:3em;
+    height:3em;
+    text-align: center;
+}
+.card-icon{
+    margin-left:6em;
+    font-size: 1em;
+    color:white;
+    box-shadow: 1px 1px 1px 1px black;
+    background-color:dodgerblue;
+}
+
+.card-detail{
+    font-size: 1em;
+    margin-left:1em;
+    font-family:serif;
+    font-weight: bold;
+    margin-bottom: 23em;
+    
+}
+
+.card-detail-phn{
+    font-size: 1em;
+    margin-left:1.3em;
+    font-family:serif;
+    font-weight: bold;
+}
+
+.card-detail-alt-phn{
+    font-size: 1em;
+    margin-left:8em;
+    font-family:serif;
+    font-weight: bold;
+}
+
+/* .Print-download{
+    margin-left: 33em;
+    width:20%;
+    height: 20%;
+    border-radius: 10%;
+} */
+
+.btn-user-card-view{
+    padding: 0.5em;
+    margin-top: 2em;
+    margin-right:1em;
+    margin-left:6em;
+    width:20em;
+    background-color:lightblue;
+    border-radius: 10em;
+    outline: none;
+
+
+}
+
+@media print {
+    .business-card {
+        background-color: white;
+        height: 100%;
+        width: 100%;
+        position: fixed;
+        top: 0;
+        left: 0;
+        margin: 0;
+        padding: 15px;
+        font-size: 14px;
+        line-height: 18px;
+        
+    }
+    button {
+        display: none;
+    }
+
+    hr{
+        display:none;
+    }
+
+    footer{
+        display: none;
+    }
+}

@@ -1,0 +1,18 @@
+*{
+  margin:0px;
+  padding: 0px;
+
+}
+.footer-container{
+position:absolute;
+margin-left: 0;
+margin-bottom: 0;
+width: 100%;
+
+}
+
+.content-container{
+  height:100%;
+  scroll-behavior: auto;
+  background-color: green;
+}

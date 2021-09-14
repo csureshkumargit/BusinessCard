@@ -1,0 +1,41 @@
+.business-card-brand
+{
+    padding-top:10em;
+    position: static;
+    padding-bottom: 35em;
+}
+
+.business-card-view-brand-frm
+{
+
+    margin-left: 35em;
+}
+
+.bsns-brand-lbl{
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 0.3em;
+    margin:0.3em;
+    display: block;
+}
+
+
+.bsns-brand-input{
+    width: 20em;
+    padding: 0.3em;
+    margin:0.3em;
+    border-radius: 0.8em;
+    outline: none;
+    
+}
+
+.businesscard-btn-brand{
+    margin-left: 0.8em;
+    padding: 0.5em;
+    margin-top: 2em;
+    width:20em;
+    background-color:lightblue;
+    border-radius: 10em;
+    outline: none;
+
+}

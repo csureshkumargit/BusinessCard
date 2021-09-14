@@ -1,0 +1,57 @@
+
+.user-account-container-signup
+{
+    position: static;
+    /* background-color: darkturquoise; */
+    
+}
+
+.user-account{
+    padding-bottom: 25em;
+    padding-top: 10em;
+}
+
+.usr-acct-lbl{
+    display: block;
+    margin-left:39.5em;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+    text-transform: capitalize;
+    font-weight:500;
+}
+
+.usr-acct-input{
+    margin-left: 48em;
+    width:20em;
+    padding: 0.5em;
+    margin-bottom: 0.5em;
+    border-radius: 8em;
+    outline: none;
+}
+
+.btn-user-submit{
+    margin-left: 43em;
+    padding: 0.5em;
+    margin-top: 2em;
+    width:30em;
+    background-color:blueviolet;
+    border-radius: 10em;
+    font-weight: bold;
+    
+}
+
+.usr-message{
+
+    margin-top: 2em;
+    height: 5em;
+    width: 22em;
+    margin-left: 47em;
+    text-align: center;
+    line-height: 2em;
+    background-color:lawngreen;
+
+}
+
+.show-password-signup{
+    padding: 0.5em;
+}

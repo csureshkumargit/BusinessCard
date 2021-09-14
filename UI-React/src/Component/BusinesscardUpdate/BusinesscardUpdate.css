@@ -1,0 +1,49 @@
+.business-card-update
+{
+    padding-top:10em;
+    position: static;
+    padding-bottom: 20em;
+}
+
+.business-card-update-frm
+{
+
+    margin-left: 35em;
+}
+
+.bsns-update-lbl{
+    text-transform: capitalize;
+    font-weight: 500;
+    padding: 0.3em;
+    margin:0.8em;
+}
+
+.bsns-update-input{
+    width: 20em;
+    padding: 0.3em;
+    margin:0.8em;
+    border-radius: 0.8em;
+    outline: none;
+    
+}
+
+input[type='file']{
+    margin-left:0.6em;
+    padding: 0.3em;
+}
+
+.bsns-retrv-logo{
+    width: 5em;
+    height: 5em;
+    margin: 0.8em;
+}
+
+.btn-user-submit-bsns-update{
+    margin-left: 12em;
+    padding: 0.5em;
+    margin-top: 2em;
+    width:20em;
+    background-color:lightblue;
+    border-radius: 10em;
+    outline: none;
+}

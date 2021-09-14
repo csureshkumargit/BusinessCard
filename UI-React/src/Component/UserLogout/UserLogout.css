@@ -1,0 +1,28 @@
+.user-logout{
+    
+    padding-top:10em;
+    position: static;
+    padding-bottom: 31em;
+    
+}
+
+.user-logout-msg{
+
+    text-align: center;
+    font-size: 2em;
+    
+
+
+}
+
+.btn-Home{
+    padding: 0.5em;
+    margin-top: 2em;
+    margin-right:1em;
+    margin-left:45em;
+    width:20em;
+    background-color:lightblue;
+    border-radius: 10em;
+    outline: none;
+    cursor: pointer;
+}

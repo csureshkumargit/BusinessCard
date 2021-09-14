@@ -1,0 +1,55 @@
+
+*{
+    margin:0px;
+    padding: 0px;
+  }
+
+.home-container{
+ background-image: url(../../Images/Background_02.jpg); 
+ height: 70em;  
+ background-size: cover;
+ width: 100%;
+ background-repeat: no-repeat;
+ position:static;
+ 
+}
+
+.heading-quotes{
+    width: 100%;
+}
+
+.quotes{
+    font-size: 3em;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    position:static;
+    padding-top:2.5em;
+    
+}
+
+.site-msg-user{
+    width:50%;
+    height: 7em;
+    margin-left: 45%;
+    margin-top:17%;
+    position:static;
+    text-align: left;
+    font-family: serif;
+    font-size: 2.0em;
+    color: white;
+    
+
+}
+
+.site-msg-user-1{
+    width:50%;
+    height: 7em;
+    margin-left: 45%;
+    /*margin-top:36%;*/
+    position:static;
+    text-align: left;
+    font-family: serif;
+    font-size: 2.0em;
+    color: white;
+}
